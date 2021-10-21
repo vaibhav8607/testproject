@@ -4,3 +4,11 @@ fast and easy to use. Just open the app, choose your desired service and you are
 We also provide our own transportation in case you may need it.
 On our careers option within the app, people can join our team and help customers with their stuff. 
 Joined members can choose their desired timing to work within the app and manage all sorts of their things including their paychecks, etc
+
+
+project functions
+  
+1. Packaging and Shipping services for customers.
+2. Realtime package tracking option.
+3. Minimalistic and Reliable app for everyone's use.
+4. Different  payment options (Paypal, visa, Mastercard, bank transfer, etc) to pay easily on the go.
