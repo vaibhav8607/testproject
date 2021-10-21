@@ -1,0 +1,6 @@
+pack’n’ship (app)-
+Our pack’n’ship app provides on the go packing and shipping services for the customers which is reliable,
+fast and easy to use. Just open the app, choose your desired service and you are ready to go. 
+We also provide our own transportation in case you may need it.
+On our careers option within the app, people can join our team and help customers with their stuff. 
+Joined members can choose their desired timing to work within the app and manage all sorts of their things including their paychecks, etc
